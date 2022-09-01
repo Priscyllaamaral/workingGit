@@ -1,0 +1,48 @@
+git status
+git init
+git add ou git add.
+git commit -m
+git commit -am
+git commit --amend (alterar a mensagem do último commit)
+git log
+git log -oneline
+git blame (quem modificou)
+git show
+git diff (modificações no arquivo)
+git checkout (reverter perdas locais)
+git remote add
+git remote -v
+git push origin master
+________________________________________________________
+git clone
+git reset + git checkout (reverter na stage area)
+git revert (reverter no git)
+git reset --hard (reverter no git)
+git checkout -b (criar nova branch)
+git branch -a ou git branch (todas as branchs)
+git merge (unir modificações em uma branch)
+_________________________________________________________
+
+touch 
+cat (ver o que está escrito no arquivo)
+
+git tag -a -m
+git rebase
+git pushorigin --tags
+git stash (Work in Progress)
+git reflog (commits + localmente)
+git add --all
+git log --graph
+_______________________________
+git fetch (só traz as mudanças para o repositório local)
+git pull (traz as mudanças para o repositório local e aplica - realiza merge)
+git reset --soft
+___________________________________________________________
+
+git stash apply
+git rebase -i (atualizar mensagem)
+git remote add 
+working area -> staging area -> repositório git
+________
+
+kent beck - criador do XP
